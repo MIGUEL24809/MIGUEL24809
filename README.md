@@ -1,4 +1,4 @@
-### Olá! Eu sou o 
+### Olá! Eu sou o Miguel
 
 - 🌱 Estudando linguagem C.
 - 📫 Contate-me no email: barros.miguel4321@gmail.com
